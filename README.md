@@ -8,10 +8,10 @@ Passionate about technology and innovation, I love exploring new tools and techn
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NachoCP&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/nacho-corcuera-platas)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nacho-corcuera-platas/)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/NachoCP)
 - Blog/Website: [![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://dzone.com/users/5107016/nachocp.html)
 
